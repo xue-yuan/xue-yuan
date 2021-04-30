@@ -32,11 +32,8 @@ const whoami = {
 }
 ```
 
-<div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uisuell&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
 
 <!--
 **xue-yuan/xue-yuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

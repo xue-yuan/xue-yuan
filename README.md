@@ -1,33 +1,16 @@
-# Noice 🍺
+<h1 align="center">
+🅷🅴🅻🅻🅾
+</h1>
 
-```javascript
-const whoami = {
-  name: 'Denon/Xue Yuan',
-  currently: {
-    workAt: 'Ucfunnel, Developer',
-    projects: [
-      'codebar.tw',
-    ]
-  },
-  languages: [
-    '🌵 C/C++',
-    '🌵 Python',
-    '🌵 JavaScript/TypeScript',
-    '🌵 Golang',
-    '🌵 Java',
-  ],
-  prefer: [
-    '🌾 Open Source/Tech Share',
-    '🌾 Network Programming',
-    '🌾 Web Development',
-    '🌾 Cyber Security',
-    '🌾 Data Science'
-    '🌾 Financial Engineering',
-  ],
-  contact: {
-    site: 'xueyuan.dev',
-    email: 'denon@xueyuan.dev',
-    medium: 'blog.codebar.tw',
-  }
-}
-```
+<div align="center">
+
+  🌴 **Software Engineer** <br>
+  📮 **denon@xueyuan.dev** <br>
+
+</div>
+
+<div align="center">
+
+  ![](https://i.imgur.com/LmSCe0w.png)
+
+</div>
